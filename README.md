@@ -1,1 +1,5 @@
-# spring-books-datastore
+My project lists a sample of female CEOs of S&P 500 companies. The purpose is to combat the stereotype of assuming that the CEO of any given company is a man. Everyone can benefit from focusing on female CEOs, whether it leads them to use inclusive language, causes them to rethink their ideas about women and power, or gets them a little closer to thinking that they could become a CEO someday. Moving forward, there is an opportunity to incorporate generative AI to provide information about the CEOs's career paths and their companies. There is also an opportunity to show more CEOs, especially with a focus on diversity. 
+
+The frontend of the project is in React and the backend is in Java Spring. The backend database provides the following information about each CEO: name, company, GICS sector, ticker symbol, and image URL. The frontend has a grid layout with a square for each CEO and populates these squares with the backend data.  
+
+Video link: https://youtu.be/6OA9sz-KrYg ![image](https://github.com/user-attachments/assets/35b2a4f5-b62f-4238-af6e-635f4755eff6)
